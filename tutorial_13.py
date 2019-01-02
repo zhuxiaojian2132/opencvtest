@@ -54,7 +54,7 @@ def detect_circles_demo(img):
     cv.imshow("detected_circles",img)
 # img=cv.imread("E:/Python_Code/VSC_Python/lena.jpg")    
 # img=cv.imread("E:/Python_Code/VSC_Python/sudoku.png")    
-img=cv.imread("E:/github_repository/VSC_Python/coins.jpg")    
+img=cv.imread("E:/github_repository/VSC_Python/coins1.jpg")    
 cv.namedWindow("input image",cv.WINDOW_AUTOSIZE)
 cv.imshow("input image",img)
 #canny_edge_demo(img)
